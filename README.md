@@ -10,4 +10,4 @@ REAM ME
 
 I just love **bold text**
 
-![Screen Shot](Pic1.png)
+![Screen Shot](pic1.png)
