@@ -17,3 +17,5 @@ I just love **bold text**
 :::code language="csharp"
 source="intro/samples/cu/Controllers/StudentsController.cs" range="2-
 24,26":::
+
+:::code language="csharp" source="~/samples-durable-functions/samples/csx/shared/Location.csx" highlight="2,5":::
