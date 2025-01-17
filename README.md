@@ -11,3 +11,9 @@ REAM ME
 I just love **bold text**
 
 ![Screen Shot](pic1.png)
+
+# code snippet
+
+:::code language="csharp"
+source="intro/samples/cu/Controllers/StudentsController.cs" range="2-
+24,26":::
